@@ -1,0 +1,2 @@
+Day 2 Notes: Setting up Personal Expense Tracker project.
+Learning persistent storage using Python standard library.

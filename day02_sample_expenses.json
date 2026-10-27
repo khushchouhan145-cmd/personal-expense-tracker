@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2026-10-21",
+        "title": "Coffee",
+        "amount": 40.0,
+        "category": "Food"
+    },
+    {
+        "id": 2,
+        "date": "2026-10-21",
+        "title": "Notebook",
+        "amount": 90.0,
+        "category": "Education"
+    },
+    {
+        "id": 3,
+        "date": "2026-10-22",
+        "title": "Bus Fare",
+        "amount": 30.0,
+        "category": "Travel"
+    }
+]
